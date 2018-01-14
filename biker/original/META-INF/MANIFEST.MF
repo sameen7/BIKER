@@ -1,0 +1,170 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_152 (Oracle Corporation)
+
+Name: res/anim/fadein.xml
+SHA1-Digest: xrspRh98ruJHI/I8GWQ+2Sg2NiY=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: n36eevS+iDXplvWowq46ThmfXDw=
+
+Name: assets/pz.jpg
+SHA1-Digest: b1AxeOakTF3C4iMn1FRFA3g/mE4=
+
+Name: assets/external_comps/com.puravidaapps.TaifunScreenshot/componen
+ ts.json
+SHA1-Digest: NCJE2em0dwnqlnKsxtp5qujnSUU=
+
+Name: res/layout/basic_map.xml
+SHA1-Digest: Z9xrzkMa5DSedj1US3oMOQC3tDk=
+
+Name: assets/ic_done_black_48dp.png
+SHA1-Digest: tpjJtIk3D9AOAuQt3DitQh6Y0MM=
+
+Name: assets/add.png
+SHA1-Digest: N4y4MZnX8AfjoA3qXLPftQqMKPc=
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: szPoIhdOBF0dW3lD26dBzvf21Sc=
+
+Name: assets/external_comps/co.com.dendritas.Animacion/components.json
+SHA1-Digest: abjL592luMVUQ3QV2LD5FeVLsvY=
+
+Name: assets/1.png
+SHA1-Digest: FVYUCHqzvb3LAx8DAzHcqxej4zs=
+
+Name: assets/speech.svg
+SHA1-Digest: RhK7LIG0gjt5GQh1rdH1KfaGclI=
+
+Name: assets/submit.png
+SHA1-Digest: 4XBExChBsjNZC1Zk52EuWiT0AhE=
+
+Name: assets/external_comps/co.com.dendritas.Animacion/files/AndroidRu
+ ntime.jar
+SHA1-Digest: 8n6Go8Pawx9pQZKC9kG76hbXlLU=
+
+Name: assets/photo.png
+SHA1-Digest: HoRbp65Wh2xyXDtTE2rsMrOT8uA=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: SN7RkB9HHcrh4aL1sLfD5QxYNak=
+
+Name: classes2.dex
+SHA1-Digest: HwT7hS3AI49qUC6n1daneAtADCA=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: g3YVE079cPZOeq2Sn5Ll3SMXa2o=
+
+Name: assets/external_comps/com.puravidaapps.TaifunScreenshot/files/co
+ mponent_build_infos.json
+SHA1-Digest: gqIRiziUBRF6GT/LoJ9KRMJBtDQ=
+
+Name: assets/pick.png
+SHA1-Digest: QL4UWtvqSlk1uGdtwse0sUSupHU=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: wy1ivUz4ahYnkWSbmpMg5urCLaM=
+
+Name: assets/external_comps/co.com.dendritas.Animacion/classes.jar
+SHA1-Digest: bD5minph/9t8HHq2OAB4eNPQwUk=
+
+Name: assets/flag.png
+SHA1-Digest: eBc6sxIePMxTgY9QEkn7sifg3bQ=
+
+Name: resources.arsc
+SHA1-Digest: YTah44WqBxanlzuOaOmEEZijIQo=
+
+Name: assets/addp.png
+SHA1-Digest: wMQfDjIN46poBUqXKOqbWIwA9PU=
+
+Name: assets/block.jpg
+SHA1-Digest: mSaG2PNfq/JNLdsEpYG8sN4aI5U=
+
+Name: res/drawable/ya.png
+SHA1-Digest: G2D/uywxpIFjuSko3rNlobEDakY=
+
+Name: assets/cancle.png
+SHA1-Digest: QQdmKP6nMfXhxe5VMYN7N5J6wb8=
+
+Name: assets/external_comps/co.com.dendritas.Animacion/extension.prope
+ rties
+SHA1-Digest: JyjyCHVtwNpsHm9ZXlYskVM5wMo=
+
+Name: res/anim/hold.xml
+SHA1-Digest: OtZWHiMpF3HWev0+/NmI7FeIpRk=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: oO7igX9M+MA+4CxgYQGbJYNKR0M=
+
+Name: AndroidManifest.xml
+SHA1-Digest: sqIcFqecfJBBpdSt6I1t4r/+fdM=
+
+Name: assets/delete.png
+SHA1-Digest: HoRbp65Wh2xyXDtTE2rsMrOT8uA=
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: 78OFiXMxADLPMjvUInocMZTlD/U=
+
+Name: assets/external_comps/com.puravidaapps.TaifunScreenshot/extensio
+ n.properties
+SHA1-Digest: JyjyCHVtwNpsHm9ZXlYskVM5wMo=
+
+Name: assets/external_comps/co.com.dendritas.Animacion/files/component
+ _build_infos.json
+SHA1-Digest: /fG5bah7HmqW+dc9WvwcZ8iaB7c=
+
+Name: assets/external_comps/com.puravidaapps.TaifunScreenshot/files/An
+ droidRuntime.jar
+SHA1-Digest: Oxm5sY7rA6xU0YJscvkbRLRSEE0=
+
+Name: assets/speech.png
+SHA1-Digest: 12zNCN7mBYKiWSRBOuceSzQYcBk=
+
+Name: assets/MaterialIcons-Regular.ttf
+SHA1-Digest: /AXeMSNOAJD33cKM4bI69AJssdo=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: lb4a0+xejXJsWLn6P29I91Weq4g=
+
+Name: assets/Thunkable-Roboto-Thin.ttf
+SHA1-Digest: Fz7WRSi00BCnbY043rHX5+7Vjto=
+
+Name: assets/submit.svg
+SHA1-Digest: hCEUexp+xyU2cytK7k4rQaHo8wQ=
+
+Name: assets/sharing.png
+SHA1-Digest: jhD23pHduzvrm4O1P76+5MBrMPs=
+
+Name: assets/logo.png
+SHA1-Digest: pC00+l8SmIo6fUknBu2RfXUZnKc=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: 5wckb9yvQzBcyv621yoaZs006i4=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: z+osOFRw5mmEks0EypUKn9CMYKg=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: oyTipf7U/aZZimoB+8PZDFZjfg8=
+
+Name: assets/bike.png
+SHA1-Digest: +ibFe/l4wIVBnj69j0WnsM6HnSE=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: G/fjBZqiJyysIrAkA2WWh1LPX8U=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: SYLMSNUv4uXjt6Zsnov/2ITUx7k=
+
+Name: assets/ic_keyboard_voice_black_48dp.png
+SHA1-Digest: 0LqKTNqa/3FiI2MvCgVAGT0QBFU=
+
+Name: assets/Thunkable-Roboto-Regular.ttf
+SHA1-Digest: gktUgMl3qBZuF35TV9ExZMzEX0c=
+
+Name: classes.dex
+SHA1-Digest: PmNCmHGD4wKxOQ8ozcklozGwLvw=
+
+Name: assets/external_comps/com.puravidaapps.TaifunScreenshot/classes.
+ jar
+SHA1-Digest: i2GFUaXwyyVSA9UkmZ2IPz1ENow=
+

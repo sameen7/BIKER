@@ -8,11 +8,21 @@
 这款名为biker的APP可以在您停放自行车后，稍微用一点喘气歇息的时间动动手指记录下您现在停车的位置。您可以为您的爱车拍个照片，然后起个可爱的名字，接下来就自己设计，发挥您的空间想象能力，在画布上为您的爱车标注一个简单易懂的位置图，随后我们还将自动保存此时的定位，方便您以后的查询。您还可将停车记录分享给自己的好友哦！当您想要使用您的爱车时，您可以打开biker，查看您上次的存放记录，同时您还可以使用导航功能来寻找自己的停车位置，找到停车场后，您就可以通过自己的设计图来找您的爱车啦！<br>
 同时这款app还提供了一些扩展功能。在低碳生活、健康出行和全民健身盛行的当下，如此喜爱自行车的您一定也经常骑行。如果您在每一次骑行前使用我们的app的话，我们将记录您每次骑行的距离以及轨迹图，以供您达成自己锻炼目标的一种参考。同时我们还将记录您的历史停车地点以及历史骑行数据，将其制成图表，方便您对自己平时生活状态的了解。
 ## 截图
-![](screenshot\1.jpg)
-![](screenshot\2.jpg)
-![](screenshot\3.jpg)
-![](screenshot\4.png)
-![](screenshot\5.png)
+<html>
+  <table>
+    <tr>
+      <td><img src="screenshoot/1.jpg" border=0></td>
+      <td><img src="screenshoot/2.jpg" border=0></td>
+      <td><img src="screenshoot/3.jpg" border=0></td>
+    </tr>
+    <tr>
+      <td><img src="screenshoot/4.png" border=0></td>
+      <td><img src="screenshoot/5.png" border=0></td>
+      <td><img src="screenshoot/6.jpg" border=0></td>
+    </tr>
+  </table>
+  </html>
+  
 ## 权限
 - 精确位置（基于GPS和网络）
 - 控制闪光灯
